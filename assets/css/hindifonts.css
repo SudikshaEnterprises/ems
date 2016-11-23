@@ -1,0 +1,8 @@
+
+@font-face { font-family : "Kru"; 
+			font-style : normal;
+			src : url("kurtidev/Kruti_Dev_010.ttf") format("truetype"); }
+
+.hindifont{
+	font-family : "Kru";
+}

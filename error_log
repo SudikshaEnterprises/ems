@@ -1,0 +1,5 @@
+[14-Nov-2016 06:00:03 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/maqblog/public_html/EMS/application/views/includes/topbar.php on line 16
+[14-Nov-2016 06:00:12 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/maqblog/public_html/EMS/application/views/includes/topbar.php on line 16
+[14-Nov-2016 20:17:23 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/maqblog/public_html/EMS/application/views/includes/topbar.php on line 16
+[15-Nov-2016 05:56:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/maqblog/public_html/EMS/application/views/includes/side_bar.php on line 18
+[15-Nov-2016 05:57:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/maqblog/public_html/EMS/application/views/includes/side_bar.php on line 18
